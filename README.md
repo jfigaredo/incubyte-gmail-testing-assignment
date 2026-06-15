@@ -10,13 +10,7 @@ Scope
 
 The test cases cover:
 
-Functional testing
-Positive scenarios
-Negative scenarios
-Validation checks
-Email composition and sending workflow
-Draft handling
-Error handling scenarios
+Functional testing, Positive scenarios, Negative scenarios, Validation checks, Email composition and sending workflow, Draft handling and Error handling scenarios
 
 ## Deliverables
 - Traditional Test Cases
